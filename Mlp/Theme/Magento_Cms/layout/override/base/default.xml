@@ -17,9 +17,9 @@
                     <argument name="path" xsi:type="string">privacy-policy-cookie-restriction-mode</argument>
                 </arguments>
             </block>
-            <block class="Magento\Framework\View\Element\Html\Link\Current" name="privacy-policy-link">
+            <block class="Magento\Framework\View\Element\Html\Link\Current" name="termos-e-condicoes">
                 <arguments>
-                    <argument name="label" xsi:type="string" translate="true">Sobre nós</argument>
+                    <argument name="label" xsi:type="string" translate="true">Termos e condições</argument>
                     <argument name="path" xsi:type="string">sobre-nos</argument>
                 </arguments>
             </block>
