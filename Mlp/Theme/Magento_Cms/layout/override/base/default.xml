@@ -20,7 +20,7 @@
             <block class="Magento\Framework\View\Element\Html\Link\Current" name="termos-e-condicoes">
                 <arguments>
                     <argument name="label" xsi:type="string" translate="true">Termos e condições</argument>
-                    <argument name="path" xsi:type="string">sobre-nos</argument>
+                    <argument name="path" xsi:type="string">termos</argument>
                 </arguments>
             </block>
         </referenceBlock>
