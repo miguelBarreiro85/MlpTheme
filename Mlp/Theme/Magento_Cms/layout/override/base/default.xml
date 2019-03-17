@@ -29,6 +29,18 @@
                     <argument name="path" xsi:type="string">contactos</argument>
                 </arguments>
             </block>
+            <block class="Magento\Framework\View\Element\Html\Link\Current" name="sobre-nos">
+                <arguments>
+                    <argument name="label" xsi:type="string" translate="true">Sobre nós</argument>
+                    <argument name="path" xsi:type="string">sobre-nos</argument>
+                </arguments>
+            </block>
+            <block class="Magento\Framework\View\Element\Html\Link\Current" name="entregas-servicos">
+                <arguments>
+                    <argument name="label" xsi:type="string" translate="true">Entregas e serviços</argument>
+                    <argument name="path" xsi:type="string">entregas-e-servicos</argument>
+                </arguments>
+            </block>
         </referenceBlock>
     </body>
 </page>
