@@ -38,7 +38,7 @@
             <block class="Magento\Framework\View\Element\Html\Link\Current" name="entregas-servicos">
                 <arguments>
                     <argument name="label" xsi:type="string" translate="true">Entregas e serviços</argument>
-                    <argument name="path" xsi:type="string">entregas-e-servicos</argument>
+                    <argument name="path" xsi:type="string">entrega-e-servicos</argument>
                 </arguments>
             </block>
         </referenceBlock>
