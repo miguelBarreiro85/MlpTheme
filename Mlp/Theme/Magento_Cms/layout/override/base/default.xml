@@ -23,6 +23,12 @@
                     <argument name="path" xsi:type="string">termos</argument>
                 </arguments>
             </block>
+            <block class="Magento\Framework\View\Element\Html\Link\Current" name="contactos">
+                <arguments>
+                    <argument name="label" xsi:type="string" translate="true">Contactos</argument>
+                    <argument name="path" xsi:type="string">contactos</argument>
+                </arguments>
+            </block>
         </referenceBlock>
     </body>
 </page>
